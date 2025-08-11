@@ -24,9 +24,13 @@ I'm always looking for new challenges that combine my technical expertise with m
 
 * **Global Economic Indicators Analysis**: An econometric project using Python to analyze the relationship between a country's economic structure and its GDP per capita.
     * [**View Project**](link/to/your/global-economic-analysis-repo)
+
+* **PDF-Scrapper**: AI-Powered PDF Interaction Tool: Developed a desktop and command-line tool that uses Google Gemini AI to extract information from PDFs via natural language queries.
+* The tool provides both text and speech responses, demonstrating skills in natural language processing, GUI development (Tkinter), and command-line interfaces.
+    * [**View Project**](link/to/your/global-economic-analysis-repo)
     
 * **Chatbot Deployment for ATG India**: Developed and deployed a chatbot that reduced user response time by 30%.
-    * [**View Project**](link/to/your/chatbot-repo)
+    * [**View Project**]((https://github.com/Gagan-V-Sha/PDF-Scrapper))
     
 * **Brainwave Headband Data Analysis**: Integrated a brainwave headband for signal acquisition and data analysis for neuroscience research.
     * [**View Project**](link/to/your/neuroscience-project-repo)
