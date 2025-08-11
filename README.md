@@ -1,12 +1,39 @@
-I am Gagan Viji Sha, a Master's student in Data and Knowledge Engineering at Otto-von-Guericke University with a passion for transforming data into actionable insights. During my time as a Developer Intern at ATG India, I honed my skills in building practical solutions, including deploying a chatbot that enhanced user experience and developing intuitive Flutter applications. As the Co-Head of my university's research forum, I cultivated strong soft skills in team management and communication while organizing international conferences. My hands-on experience in signal acquisition for neuroscience and my current studies in Germany equip me with a unique combination of technical expertise and a global perspective.
+# Hi there 👋, I'm Gagan Viji Sha
 
-Key Skills
-Programming Languages: Python, R, Dart, JavaScript
+### Master's Student | Data & Knowledge Engineer
 
-Data Analysis & Machine Learning: Pandas, NumPy, Statsmodels, Matplotlib, Seaborn, Data Cleaning, Statistical Analysis, Data Visualization
+I am a Master's student in Data and Knowledge Engineering at **Otto-von-Guericke University**, with a strong passion for transforming data into actionable insights.
 
-Mobile & Web Development: Flutter, Chatbot Development, Mobile Interfaces (UI/UX testing)
+As a former **Developer Intern at ATG India**, I gained hands-on experience by building and deploying a chatbot that **reduced user response time by 30%** and developing intuitive Flutter applications. My background as the **Co-Head of my university's research forum** has also equipped me with strong leadership, team management, and event organization skills.
 
-Soft Skills: Team Management, Communication, Event Organization, Problem-Solving, Leadership
+I'm always looking for new challenges that combine my technical expertise with my drive to solve complex problems.
 
-Technical Tools: Git, Jupyter Notebooks
+---
+
+### 🚀 My Toolkit
+
+* **Programming Languages**: Python, R, Dart, JavaScript
+* **Data Analysis & Machine Learning**: Pandas, NumPy, Statsmodels, Matplotlib, Seaborn, Statistical Analysis, Data Visualization
+* **Mobile & Web Development**: Flutter, Chatbot Development, Mobile Interfaces (UI/UX testing)
+* **Soft Skills**: Team Management, Communication, Event Organization, Problem-Solving, Leadership
+* **Technical Tools**: Git, Jupyter Notebooks
+
+---
+
+### 📂 Featured Projects
+
+* **Global Economic Indicators Analysis**: An econometric project using Python to analyze the relationship between a country's economic structure and its GDP per capita.
+    * [**View Project**](link/to/your/global-economic-analysis-repo)
+    
+* **Chatbot Deployment for ATG India**: Developed and deployed a chatbot that reduced user response time by 30%.
+    * [**View Project**](link/to/your/chatbot-repo)
+    
+* **Brainwave Headband Data Analysis**: Integrated a brainwave headband for signal acquisition and data analysis for neuroscience research.
+    * [**View Project**](link/to/your/neuroscience-project-repo)
+
+---
+
+### 📫 Let's Connect!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](link/to/your/linkedin-profile)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@gmail.com)
