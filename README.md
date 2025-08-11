@@ -27,10 +27,10 @@ I'm always looking for new challenges that combine my technical expertise with m
 
 * **PDF-Scrapper**: AI-Powered PDF Interaction Tool: Developed a desktop and command-line tool that uses Google Gemini AI to extract information from PDFs via natural language queries.
 * The tool provides both text and speech responses, demonstrating skills in natural language processing, GUI development (Tkinter), and command-line interfaces.
-    * [**View Project**](link/to/your/global-economic-analysis-repo)
+    * [**View Project**]([link/to/your/PDF-Scrapper](https://github.com/Gagan-V-Sha/PDF-Scrapper))
     
 * **Chatbot Deployment for ATG India**: Developed and deployed a chatbot that reduced user response time by 30%.
-    * [**View Project**]((https://github.com/Gagan-V-Sha/PDF-Scrapper))
+    * [**View Project**](link/to/your/global-economic-analysis-repo)
     
 * **Brainwave Headband Data Analysis**: Integrated a brainwave headband for signal acquisition and data analysis for neuroscience research.
     * [**View Project**](link/to/your/neuroscience-project-repo)
