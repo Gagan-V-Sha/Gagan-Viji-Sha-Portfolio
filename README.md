@@ -23,7 +23,7 @@ I'm always looking for new challenges that combine my technical expertise with m
 ### 📂 Featured Projects
 
 * **Global Economic Indicators Analysis**: An econometric project using Python to analyze the relationship between a country's economic structure and its GDP per capita.
-    * [**View Project**](link/to/your/global-economic-analysis-repo)
+    * [**View Project**](https://github.com/Gagan-V-Sha/Global-Economy-Indicators-Analysis)
 
 * **PDF-Scrapper**: AI-Powered PDF Interaction Tool: Developed a desktop and command-line tool that uses Google Gemini AI to extract information from PDFs via natural language queries. The tool provides both text and speech responses, demonstrating skills in natural language processing, GUI development (Tkinter), and command-line interfaces.
     * [View Project on GitHub](https://github.com/Gagan-V-Sha/PDF-Scrapper)
