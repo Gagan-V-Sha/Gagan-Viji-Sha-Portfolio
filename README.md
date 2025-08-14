@@ -28,8 +28,11 @@ I'm always looking for new challenges that combine my technical expertise with m
 * **PDF-Scrapper**: AI-Powered PDF Interaction Tool: Developed a desktop and command-line tool that uses Google Gemini AI to extract information from PDFs via natural language queries. The tool provides both text and speech responses, demonstrating skills in natural language processing, GUI development (Tkinter), and command-line interfaces.
     * [View Project on GitHub](https://github.com/Gagan-V-Sha/PDF-Scrapper)
     
-* **Chatbot Deployment for ATG India**: Developed and deployed a chatbot that reduced user response time by 30%.
-    * [**View Project**](link/to/your/global-economic-analysis-repo)
+* **AI-Powered European Social Survey (ESS) Data Analysis** : An interactive web application that leverages AI to enable users to explore and analyze the complex European Social Survey dataset using natural language queries. This tool simplifies data analysis by automatically generating visualizations and summarizing key insights on demand.
+
+Live Demo: (https://gagan-v-sha.github.io/ess-data-analysis-AI-assisted-Website/)
+[
+[**View Project**]](https://github.com/Gagan-V-Sha/ess-data-analysis-AI-assisted-Website)(link/to/your/global-economic-analysis-repo)
     
 * **Brainwave Headband Data Analysis**: Integrated a brainwave headband for signal acquisition and data analysis for neuroscience research.
     * [**View Project**](link/to/your/neuroscience-project-repo)
