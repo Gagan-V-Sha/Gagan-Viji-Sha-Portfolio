@@ -29,9 +29,7 @@ I'm always looking for new challenges that combine my technical expertise with m
     * [**View Project**](https://github.com/Gagan-V-Sha/PDF-Scrapper)
     
 * **AI-Powered European Social Survey (ESS) Data Analysis** : An interactive web application that leverages AI to enable users to explore and analyze the complex European Social Survey dataset using natural language queries. This tool simplifies data analysis by automatically generating visualizations and summarizing key insights on demand.
-
-  
- * [**View Project**](https://github.com/Gagan-V-Sha/ess-data-analysis-AI-assisted-Website)
+    * [**View Project**](https://github.com/Gagan-V-Sha/ess-data-analysis-AI-assisted-Website)
     
 * **Brainwave Headband Data Analysis**: Integrated a brainwave headband for signal acquisition and data analysis for neuroscience research.
     * [**View Project**](link/to/your/neuroscience-project-repo)
