@@ -38,5 +38,5 @@ I'm always looking for new challenges that combine my technical expertise with m
 
 ### 📫 Let's Connect!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/gagan-viji-sha-44517622a)
+LinkedIn : (www.linkedin.com/in/gagan-viji-sha-44517622a)
 
